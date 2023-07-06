@@ -29,10 +29,13 @@
 ![screenshot-localhost-2023 07 06-10_40_59](https://github.com/Ashutosh-aditya/Plant-Selling-Ecommerce-Website/assets/78680582/8fa56ac3-072b-468b-a38a-e60ad500ce77)
 ![screenshot-localhost-2023 07 06-10_44_08](https://github.com/Ashutosh-aditya/Plant-Selling-Ecommerce-Website/assets/78680582/b9f7cb85-4ad2-45f9-b6f8-7db374fca056)
 ![screenshot-localhost-2023 07 06-10_45_03](https://github.com/Ashutosh-aditya/Plant-Selling-Ecommerce-Website/assets/78680582/9a5a189c-520e-4b9c-a0c2-f14c010accdc)
-![screenshot-localhost-2023 07 06-10_47_33](https://github.com/Ashutosh-aditya/Plant-Selling-Ecommerce-Website/assets/78680582/f3fb51f9-02db-467f-b662-2ca4e51bd7e4)
+![image](https://github.com/Ashutosh-aditya/Plant-Selling-Ecommerce-Website/assets/78680582/74128987-7e78-4007-af3c-a9dbe34cc2dd)
+
 ![screenshot-localhost-2023 07 06-10_49_38](https://github.com/Ashutosh-aditya/Plant-Selling-Ecommerce-Website/assets/78680582/981bfaa8-9758-4189-ad8e-a4875b76a940)
-![screenshot-localhost-2023 07 06-10_50_21](https://github.com/Ashutosh-aditya/Plant-Selling-Ecommerce-Website/assets/78680582/212f2e24-01c7-438a-bf23-d07bd0279548)
-![screenshot-localhost-2023 07 06-10_51_52](https://github.com/Ashutosh-aditya/Plant-Selling-Ecommerce-Website/assets/78680582/e9dba4a0-9307-4914-b86d-7b26175ca1b7)
+![image](https://github.com/Ashutosh-aditya/Plant-Selling-Ecommerce-Website/assets/78680582/f642a867-5dbc-4203-a655-25efa54d124a)
+
+
+![image](https://github.com/Ashutosh-aditya/Plant-Selling-Ecommerce-Website/assets/78680582/9deb27b7-19ea-4de7-892f-ac55142a138a)
 
 
 
