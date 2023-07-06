@@ -1,0 +1,64 @@
+
+INSERT INTO STOCK1 VALUES ('I1','Green Mound Juniper (Outdoor)','BONSAI',255,'bon1.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I2','Green Mound Juniper (Outdoor)','BONSAI',255,'bon2.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I3','Green Mound Juniper (Outdoor)','BONSAI',255,'bon3.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I4','Green Mound Juniper (Outdoor)','BONSAI',255,'bon4.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I5','Green Mound Juniper (Outdoor)','BONSAI',255,'bon5.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I6','Green Mound Juniper (Outdoor)','BONSAI',255,'bon6.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I7','Green Mound Juniper (Outdoor)','BONSAI',255,'bon7.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I8','Green Mound Juniper (Outdoor)','BONSAI',255,'bon8.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I9','Green Mound Juniper (Outdoor)','BONSAI',255,'bon9.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I10','Green Mound Juniper (Outdoor)','BONSAI',255,'bon10.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I11','Green Mound Juniper (Outdoor)','BONSAI',255,'bon11.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I12','Green Mound Juniper (Outdoor)','BONSAI',255,'bon12.jpg','OK',200);
+
+
+
+
+INSERT INTO STOCK1 VALUES ('I13','Gloss White Square Milano Pot','HOUSE_PLANTS',255,'house1.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I14','Gloss White Square Milano Pot','HOUSE_PLANTS',200,'house2.jpg','OK',290);
+INSERT INTO STOCK1 VALUES ('I15','Gloss White Square Milano Pot','HOUSE_PLANTS',25,'house3.jpg','OK',300);
+INSERT INTO STOCK1 VALUES ('I16','Gloss White Square Milano Pot','HOUSE_PLANTS',265,'house4.jpg','OK',500);
+INSERT INTO STOCK1 VALUES ('I17','Gloss White Square Milano Pot','HOUSE_PLANTS',50,'house5.jpg','OK',800);
+INSERT INTO STOCK1 VALUES ('I18','Gloss White Square Milano Pot','HOUSE_PLANTS',355,'house6.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I19','Gloss White Square Milano Pot','HOUSE_PLANTS',265,'house7.jpg','OK',2500);
+INSERT INTO STOCK1 VALUES ('I20','Gloss White Square Milano Pot','HOUSE_PLANTS',285,'house8.jpg','OK',2020);
+INSERT INTO STOCK1 VALUES ('I21','Gloss White Square Milano Pot','HOUSE_PLANTS',225,'house9.jpg','OK',2001);
+INSERT INTO STOCK1 VALUES ('I22','Gloss White Square Milano Pot','HOUSE_PLANTS',275,'house10.jpg','OK',290);
+INSERT INTO STOCK1 VALUES ('I23','Gloss White Square Milano Pot','HOUSE_PLANTS',295,'house11.jpg','OK',299);
+INSERT INTO STOCK1 VALUES ('I24','Gloss White Square Milano Pot','HOUSE_PLANTS',265,'house12.jpg','OK',2900);
+
+
+
+
+INSERT INTO STOCK1 VALUES ('I25','Mini Mauve Orchid','OFFICE_PLANTS',255,'office1.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I26','Mini Mauve Orchid','OFFICE_PLANTS',200,'office2.jpg','OK',290);
+INSERT INTO STOCK1 VALUES ('I27','Mini Mauve Orchid','OFFICE_PLANTS',25,'office3.jpg','OK',300);
+INSERT INTO STOCK1 VALUES ('I28','Mini Mauve Orchid','OFFICE_PLANTS',265,'office4.jpg','OK',500);
+INSERT INTO STOCK1 VALUES ('I29','Mini Mauve Orchid','OFFICE_PLANTS',50,'office5.jpg','OK',800);
+INSERT INTO STOCK1 VALUES ('I30','Mini Mauve Orchid','OFFICE_PLANTS',355,'office6.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I31','Mini Mauve Orchid','OFFICE_PLANTS',265,'office7.jpg','OK',2500);
+INSERT INTO STOCK1 VALUES ('I32','Mini Mauve Orchid','OFFICE_PLANTS',285,'office8.jpg','OK',2020);
+INSERT INTO STOCK1 VALUES ('I33','Mini Mauve Orchid','OFFICE_PLANTS',225,'office9.jpg','OK',2001);
+INSERT INTO STOCK1 VALUES ('I34','Mini Mauve Orchid','OFFICE_PLANTS',275,'office10.jpg','OK',290);
+INSERT INTO STOCK1 VALUES ('I35','Mini Mauve Orchid','OFFICE_PLANTS',295,'office11.jpg','OK',299);
+INSERT INTO STOCK1 VALUES ('I36','Mini Mauve Orchid','OFFICE_PLANTS',265,'office12.jpg','OK',2900);
+
+
+
+
+INSERT INTO STOCK1 VALUES ('I37','The Sanservieria','GIFT_PLANTS',255,'gift1.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I38','The Sanservieria','GIFT_PLANTS',200,'gift2.jpg','OK',290);
+INSERT INTO STOCK1 VALUES ('I39','The Sanservieria','GIFT_PLANTS',25,'gift3.jpg','OK',300);
+INSERT INTO STOCK1 VALUES ('I40','The Sanservieria','GIFT_PLANTS',265,'gift4.jpg','OK',500);
+INSERT INTO STOCK1 VALUES ('I41','The Sanservieria','GIFT_PLANTS',50,'gift5.jpg','OK',800);
+INSERT INTO STOCK1 VALUES ('I42','The Sanservieria','GIFT_PLANTS',355,'gift6.jpg','OK',200);
+INSERT INTO STOCK1 VALUES ('I43','The Sanservieria','GIFT_PLANTS',265,'gift7.jpg','OK',2500);
+INSERT INTO STOCK1 VALUES ('I44','The Sanservieria','GIFT_PLANTS',285,'gift8.jpg','OK',2020);
+INSERT INTO STOCK1 VALUES ('I45','The Sanservieria','GIFT_PLANTS',225,'gift9.jpg','OK',2001);
+INSERT INTO STOCK1 VALUES ('I46','The Sanservieria','GIFT_PLANTS',275,'gift10.jpg','OK',290);
+INSERT INTO STOCK1 VALUES ('I47','The Sanservieria','GIFT_PLANTS',295,'gift11.jpg','OK',299);
+INSERT INTO STOCK1 VALUES ('I48','The Sanservieria','GIFT_PLANTS',265,'gift12.jpg','OK',2900);
+
+
+
