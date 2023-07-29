@@ -32,7 +32,6 @@
 ![screenshot-localhost-2023 07 06-10_49_38](https://github.com/Ashutosh-aditya/Plant-Selling-Ecommerce-Website/assets/78680582/981bfaa8-9758-4189-ad8e-a4875b76a940)
 ![image](https://github.com/Ashutosh-aditya/Plant-Selling-Ecommerce-Website/assets/78680582/f642a867-5dbc-4203-a655-25efa54d124a)
 
-
 ![image](https://github.com/Ashutosh-aditya/Plant-Selling-Ecommerce-Website/assets/78680582/9deb27b7-19ea-4de7-892f-ac55142a138a)
 
 
