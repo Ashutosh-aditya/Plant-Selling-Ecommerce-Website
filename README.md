@@ -1,4 +1,3 @@
-
 # Plant-Selling-Ecommerce-Website
 ![Screenshot_2023-07-06_05-03](https://github.com/Ashutosh-aditya/Plant-Selling-Ecommerce-Website/assets/78680582/0aea8d45-8706-4b15-bd4a-3ed7407885bc)
 ## Technologies Used
