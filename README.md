@@ -6,7 +6,6 @@
 - CSS
 - HTML
 - JavaScript
-
 ## Features
 
 - User registration and authentication
