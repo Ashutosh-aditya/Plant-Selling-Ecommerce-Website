@@ -6,7 +6,6 @@
 - HTML
 - JavaScript
 ## Features
-
 - User registration and authentication
 - Product browsing and searching
 - Shopping cart functionality
